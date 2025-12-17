@@ -24,7 +24,7 @@ A high-performance CPU-based 3D rendering engine written in Python with Numba JI
 - SciPy
 - PIL (Pillow)
 
-## 🚀 Installation
+## 🚀 Installation and Examples
 
 ```bash
 # Install dependencies
