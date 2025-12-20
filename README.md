@@ -84,7 +84,7 @@ The `main.py` file provides a complete example application that demonstrates the
 - Real-time rendering with performance statistics
 
 ```bash
-python main.py
+python src/main.py
 ```
 
 **Note**: Make sure you have a `res/chess_pieces.glb` file or modify the path in `main.py` to load your own 3D model.
