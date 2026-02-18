@@ -245,8 +245,8 @@ renderer.present()                    # Display frame
 ## 📝 File Structure
 
 ```
-├── main.py                 # Demo application entry point
-├── compiler.py             # JIT compilation warmup
+├── main.py                # Demo application entry point
+├── compiler               # JIT compilation warmup
 ├── renderer/
 │   ├── core.py            # Main renderer class
 │   ├── rasterizer.py      # Rasterization engine
@@ -255,7 +255,7 @@ renderer.present()                    # Display frame
 │   ├── shadow_mapping.py  # Shadow generation
 │   ├── lighting.py        # Lighting calculations
 │   └── setting.py         # Configuration
-└── loader     # 3D model loading
+└── loader                 # 3D model loading
 ```
 
 ## 🙏 Acknowledgments
