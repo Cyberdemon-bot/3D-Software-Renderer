@@ -1,6 +1,6 @@
 # 3D Software Renderer
 
-A high-performance CPU-based 3D rendering engine written in Python with Numba JIT compilation. Features real-time mesh rendering, shadow mapping, diffuse lighting, and texture mapping.
+A CPU-based 3D rendering engine written in Python with Numba JIT compilation. Features real-time mesh rendering, shadow mapping, diffuse lighting, and texture mapping.
 
 ## ✨ Features
 
